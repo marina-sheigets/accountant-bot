@@ -8,11 +8,7 @@ export const COMMANDS: Command[] = [
     description: "View my costs",
   },
   {
-    command: "/view",
-    description: "View my costs",
-  },
-  {
-    command: "/setting",
+    command: "/settings",
     description: "Change settings",
   },
   {
